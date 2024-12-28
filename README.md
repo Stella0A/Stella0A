@@ -1,7 +1,6 @@
 ## 👋Hi there, I'm Oluwatosin Akindolie
 
-🔭 Data Analyst/Business Intelligence Analyst sharing about my journey and learnings in tech<br/>
-🌱 Studied Applied Artificial Intelligence and Data Analytics at the University of Bradford, United Kingdom<br/>
+🔭 I'm a Data Analyst/Business Intelligence Analyst with a strong foundation in Research and Statistical analysis focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization.  <br/>
 
 ## 💼Skills and Expertise
 - Programming: Python, SQL
@@ -18,4 +17,10 @@
 - Market Research
 
 ## What I work on
+- Analyzing complex datasets to uncover actionable insights.
+- Developing machine learning models for predictive analytics and classification.
+- Creating interactive dashboards and reports using PowerBI and Tableau.
+- Cleaning and preparing data to ensure high-quality, reliable analysis.
+- Designing business intelligence solutions to align with strategic goals.
+- Automating tasks and optimizing workflows for improved efficiency.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stella0a)](https://github.com/anuraghazra/github-readme-stats)
