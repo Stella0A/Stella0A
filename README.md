@@ -1,6 +1,10 @@
 ## 👋Hi there, I'm Oluwatosin Akindolie
 
-🔭 I'm a Data Analyst/Business Intelligence Analyst with a strong foundation in Research and Statistical analysis focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization.  <br/>
+Data Analyst/Business Intelligence Analyst with a strong foundation in research and statistical analysis, focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization<br/>
+- 🎓 MSc in Applied Artificial Intelligence and Data Analytics from the University of Bradford, UK.
+- 💡 Passionate about leveraging data in the product and financial technology sectors.
+
+
 
 ## 💼Skills and Expertise
 - Programming: Python, SQL
