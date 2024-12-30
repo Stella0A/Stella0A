@@ -2,7 +2,7 @@
 
 Data Analyst/Business Intelligence Analyst with a strong foundation in research and statistical analysis, focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization<br/>
 - 🎓 MSc in Applied Artificial Intelligence and Data Analytics from the University of Bradford, UK.
-- 💡 Passionate about leveraging data in the product and financial technology sectors.
+- 💡 Passionate about leveraging data in the product, marketing and financial technology sectors.
 
 
 
