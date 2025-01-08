@@ -24,9 +24,13 @@ Data Analyst/Business Intelligence Analyst with a strong foundation in research 
 - Analyzing complex datasets to uncover actionable insights.
 - Developing machine learning models for predictive analytics and classification.
 - Creating interactive dashboards and reports using PowerBI and Tableau.
-- Cleaning and preparing data to ensure high-quality, reliable analysis.
-- Designing business intelligence solutions to align with strategic goals.
+- Cleaning and preparing data for high-quality, reliable analysis.
+- Designing business intelligence solutions aligned with strategic goals.
 - Automating tasks and optimizing workflows for improved efficiency.
+- Conducting market research to understand consumer behavior and identify trends.
+- Analyzing campaign performance to optimize strategies.
+- Performing product analysis to evaluate performance and inform development.
+- Integrating data from multiple sources for comprehensive analysis.
 
 
 # 💻 Tech Stack:
