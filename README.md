@@ -22,18 +22,15 @@ Data Analyst/Business Intelligence Analyst with a strong foundation in research 
 
 ## What I work on
 - Analyzing complex datasets to uncover actionable insights.
-
-
-
-- Analyzing campaign performance to optimize strategies.
-- Cleaning and preparing data for high-quality, reliable analysis.
-- Integrating data from multiple sources for comprehensive analysis.
-- Automating tasks and optimizing workflows for improved efficiency.
-- Creating interactive dashboards and reports using PowerBI and Tableau.
-- Designing business intelligence solutions aligned with strategic goals.
-- Performing product analysis to evaluate performance and inform development.
 - Developing machine learning models for predictive analytics and classification.
+- Creating interactive dashboards and reports using PowerBI and Tableau.
+- Cleaning and preparing data for high-quality, reliable analysis.
+- Designing business intelligence solutions aligned with strategic goals.
+- Automating tasks and optimizing workflows for improved efficiency.
 - Conducting market research to understand consumer behavior and identify trends.
+- Analyzing campaign performance to optimize strategies.
+- Performing product analysis to evaluate performance and inform development.
+- Integrating data from multiple sources for comprehensive analysis.
 
 
 # 💻 Tech Stack:
