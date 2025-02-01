@@ -16,6 +16,7 @@ Data Analyst/Business Intelligence Analyst with a strong foundation in research 
 - Consumer Finance
 - Data Analysis
 - Financial Technology and Services
+- Marketing Analytics
 - Product Analytics
 - AI Research
 - Market Research
