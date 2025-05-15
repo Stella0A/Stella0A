@@ -14,7 +14,6 @@ Analyst with a strong research and statistical analysis foundation, focused on h
 - Tools & Frameworks: Excel, Power BI, Tableau, Microsoft Apps, Google BigQuery, Scikit-learn, TensorFlow, Pandas
 - Marketing & Performance Media: Google Ads, Microsoft Ads
 - Project Management: Agile methodologies, JIRA, Confluence, Slack, Microsoft Teams, Sharepoint
-- 
 
 ## 🌟 Areas of Interest
 - Consumer Finance
