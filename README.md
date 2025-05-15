@@ -1,16 +1,20 @@
 ## 👋Hi there, I'm Oluwatosin Akindolie
 
-Data Analyst/Business Intelligence Analyst with a strong foundation in research and statistical analysis, focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization<br/>
+Analyst with a strong research and statistical analysis foundation, focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization. I work as a Performance Media Analyst at Summon Digital, combining data analysis, digital marketing strategies, and creative insights to optimize paid media campaigns across platforms such as Google Ads and Bing<br/>
 - 🎓 MSc in Applied Artificial Intelligence and Data Analytics from the University of Bradford, UK.
-- 💡 Passionate about leveraging data in the product, marketing and financial technology sectors.
+- 🎓 2022 Recipient of the Office For Student Scholarship for Artificial Intelligence and Data Analytics.
+- 🎓 2024 Award For Outstanding Place Student.
+- 💡 Passionate about leveraging data to solve problems and uncover insights across product, marketing, and financial technology sectors.
 
 
 
 ## 💼Skills and Expertise
 - Programming: Python, SQL
 - AI & Data Analytics: Machine Learning, Statistical Analysis, Data Visualization, Predictive Modeling
-- Tools & Frameworks: Excel, Power BI, Tableau, Microsoft Apps, GoogleBigQuery, Scikit-learn, TensorFlow, Pandas
+- Tools & Frameworks: Excel, Power BI, Tableau, Microsoft Apps, Google BigQuery, Scikit-learn, TensorFlow, Pandas
+- Marketing & Performance Media: Google Ads, Microsoft Ads
 - Project Management: Agile methodologies, JIRA, Confluence, Slack, Microsoft Teams, Sharepoint
+- 
 
 ## 🌟 Areas of Interest
 - Consumer Finance
@@ -24,7 +28,7 @@ Data Analyst/Business Intelligence Analyst with a strong foundation in research 
 ## What I work on
 - Analyzing complex datasets to uncover actionable insights.
 - Developing machine learning models for predictive analytics and classification.
-- Creating interactive dashboards and reports using PowerBI and Tableau.
+- Creating interactive dashboards and reports using Power BI and Tableau.
 - Cleaning and preparing data for high-quality, reliable analysis.
 - Designing business intelligence solutions aligned with strategic goals.
 - Automating tasks and optimizing workflows for improved efficiency.
