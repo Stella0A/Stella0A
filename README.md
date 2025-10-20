@@ -1,6 +1,6 @@
 ## 👋Hi there, I'm Oluwatosin Akindolie
 
-Analyst with a strong research and statistical analysis foundation, focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization. I work as a Performance Media Analyst, combining data analysis, digital marketing strategies, and creative insights to optimize paid media campaigns across platforms such as Google Ads and Bing<br/>
+A Data Analyst with a strong research and statistical analysis foundation, focused on helping businesses optimize performance and drive data-driven decisions through advanced analytics and data visualization. I work as a Performance Media Analyst, combining data analysis, digital marketing strategies, and creative insights to optimize paid media campaigns across platforms such as Google Ads and Bing<br/>
 - 🎓 MSc in Applied Artificial Intelligence and Data Analytics from the University of Bradford, UK.
 - 🎓 2022 Recipient of the Office For Student Scholarship for Artificial Intelligence and Data Analytics.
 - 🎓 2024 Award For Outstanding Place Student.
